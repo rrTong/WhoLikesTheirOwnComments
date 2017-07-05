@@ -1,2 +1,2 @@
 # WhoLikesTheirOwnComments
-Made to print replies to a Facebook comment chain
+Made to recursively print replies to a Facebook comment chain, given an integer position value.
